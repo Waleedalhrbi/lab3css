@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+   
+}
+
+nav ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+nav li {
+    display: inline;
+    float: left;
+    text-align: center;
+    padding: 14px 16px;
+}
+
+nav a{
+    display: block;
+    padding: 8px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.WelcomePage{
+    background-color: #e8e8e8;
+    height: 20vw;
+    position: relative;
+}
+.text{
+    text-align: right;
+    width: 40%;
+    padding-left: 700px;
+    position: relative;
+    bottom: 260px;
+}
+.text h1{
+    padding-bottom: 20px;
+}
+.img1{
+    position: relative;
+    top: 15px;
+    left: 50px;
+    margin-left: 120px;
+}
+.img2{
+    position: relative;
+    left: 290px;
+    bottom: 65px;
+}
+
+.ractangl{
+    background-color: #7fffd3;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border-bottom: 5px solid black;
+    border-left: 3px solid black;
+}
+#r1{
+    position: relative;
+    left: 90px ;
+    top: 70px;
+}
+#r2{
+    position: relative;
+    left: 190px ;
+    top: 80px;
+    background-color: #8a7eff;
+}
+#r3{
+    position: relative;
+    left: 300px ;
+    top: 90px;
+    background-color: #ff7f9c;
+}
+#r4{
+    position: relative;
+    left: 400px ;
+    bottom: 130px;
+    background-color: #bdff7f;
+}
+
+#r5{
+    position: relative;
+    left: 500px ;
+    bottom: 350px;
+    background-color: #feb97f;
+}
+.ractangl2{
+    background-color: #7fffd3;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    border-bottom: 5px solid black;
+    border-right: 3px solid black;
+}
+
+#r6{
+    background-color: #7fffd3;
+    position: relative;
+    left: 650px ;
+    bottom: 455px;
+}
+#r7{
+    position: relative;
+    left: 750px ;
+    bottom: 446px;
+    background-color: #8a7eff;
+}
+#r8{
+    position: relative;
+    left: 850px;
+    bottom: 436px;
+    background-color: #ff7f9c;
+}
+#r9{
+    position: relative;
+    left: 940px ;
+    bottom: 656px;
+    background-color: #bdff7f;
+}
+#r10{
+    position: relative;
+    left: 1050px ;
+    bottom: 875px;
+    background-color: #feb97f;
+}
