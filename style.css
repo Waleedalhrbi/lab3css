@@ -133,3 +133,10 @@ nav a{
     bottom: 875px;
     background-color: #feb97f;
 }
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: #333;
+    color: white;
+    height: 55px;
+  }
